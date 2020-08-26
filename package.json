@@ -9,9 +9,12 @@
     "bootstrap": "^4.5.2",
     "classname": "0.0.0",
     "cn": "^0.1.1",
+    "moment": "^2.27.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
+    "react-bootstrap-table-next": "^4.0.3",
     "react-dom": "^16.13.1",
+    "react-moment": "^0.9.7",
     "react-scripts": "3.4.3",
     "underscore": "^1.10.2"
   },

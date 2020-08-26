@@ -6,9 +6,9 @@ import "./Home.scss";
 
 import Header from "../Header/Header";
 
-import { ReactComponent as User } from "../../images/user.svg";
+// import { ReactComponent as User } from "../../images/emplo.svg"
+// import { ReactComponent as Nurse } from "../images/nurse.svg";
 import { ReactComponent as Star } from "../../images/star.svg";
-import { ReactComponent as Nurse } from "../../images/nurse.svg";
 import { ReactComponent as House } from "../../images/house.svg";
 import { ReactComponent as Clients } from "../../images/clientssvg.svg";
 import { ReactComponent as Messages } from "../../images/messages.svg";
